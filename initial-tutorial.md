@@ -17,4 +17,14 @@ The devices used for outputting audio. Soundcards are often integrated into othe
 ***
 ### [Network](en.wikipedia.org/wiki/Computer_network)
 A Network is multiple computers connected together.
+#### [Network Adapters](en.wikipedia.org/wiki/Network_interface_controller)
+The adapters which connect computers. 
+-Ethernet
+-Wireless Connections
+- Wifi
+- Cellular Networks
+- Bluetooth[^1]
 ### []()
+
+
+[^1]:The current editor(s) do not have sufficient knowledge on Cellular networks or Bluetooth
