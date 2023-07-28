@@ -10,10 +10,21 @@ Hardware is the device, it's parts, and lower devices such as keyboards ⌨️, 
 A group of programs.
 ### [App/Application](en.wikipedia.org/wiki/Application_software)
 Software, commonly used to refer to the programs a computer user actively uses.
-### [Display/Screen](en.wikipedia.org/wiki/Electronic_visual_display)
+### Output Devices
+#### [Display/Screen](en.wikipedia.org/wiki/Electronic_visual_display)
 The screen which the user views the visual output of the computer. The [Graphics Proccessor, Graphics card, or Display adapter](en.wikipedia.org/wiki/Graphics_card#Power_demand) produces the image seen on the screen.
-### [Speakers, Headphone, and audio output 🔊](en.wikipedia.org/wiki/Sound_card)
+#### [Speakers, Headphone, and audio output 🔊](en.wikipedia.org/wiki/Sound_card)
 The devices used for outputting audio. Soundcards are often integrated into other parts of the computer, but can sometimes be standalone, especially in older hardware.
+###Input Devices
+#### [Mice](en.wikipedia.org/wiki/Computer_mouse)
+A computer mouse (plural mice) allows for a cursor to move accross a screen. In some applications the mouse is used to control aspects such as camera angle.
+#### [Keyboard](en.wikipedia.org/wiki/Computer_keyboard)
+A keyboard allows for fast input of letters onto a computer. Often used both for writing as well as keys having certain actions
+#### [Microphones](en.wikipedia.org/wiki/Microphone#Digital_microphone_interface)
+#### [Cameras or Webcams](en.wikipedia.org/wiki/Webcam)
+Computer microphones encode sound into digital input.
+#### Other Devices
+Other Devices exist for input, but commonly lack support in applications,
 ***
 ### [Network](en.wikipedia.org/wiki/Computer_network)
 A Network is multiple computers connected together.
